@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>920909788572-ki0aqfs9bbf3ec0kcbef9e2tii227d6n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.920909788572-ki0aqfs9bbf3ec0kcbef9e2tii227d6n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCp1tJlP-fxNSts0XtckUUM09Jaxoje_Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>920909788572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>COM.PiOnFyre.PiOnFyreLight</string>
+	<key>PROJECT_ID</key>
+	<string>pionfire-d23ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pionfire-d23ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:920909788572:ios:ea8044bcff7c6f42</string>
+	<key>DATABASE_URL</key>
+	<string>https://pionfire-d23ed.firebaseio.com</string>
+</dict>
+</plist>
